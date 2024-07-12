@@ -1,0 +1,22 @@
+.main-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.main-container h1 {
+    color: #333;
+}
+
+.main-container p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.main-container img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
